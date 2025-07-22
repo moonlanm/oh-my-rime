@@ -1,0 +1,45 @@
+# Rime user dictionary
+#@/db_name	rime_mint
+#@/db_type	userdb
+#@/rime_version	1.13.1
+#@/tick	40
+#@/user_id	9d9017ca-31a3-44f1-a23b-3b8d6c4984e3
+bù gēn 	不跟	c=0 d=0.1 t=23
+cí kù 	词库	c=1 d=1 t=39
+de 	的	c=2 d=1.97045 t=28
+dà shuài 	大帅	c=1 d=1.09851 t=17
+dǎo zhī 	导汁	c=1 d=1 t=14
+féng mài 	冯劢	c=3 d=2.98506 t=11
+gàn 	干	c=1 d=1 t=4
+gěi nǐ 	给你	c=1 d=1 t=26
+gǎn jué 	感觉	c=1 d=1 t=29
+huí jiā 	回家	c=1 d=1 t=27
+huò qǔ 	获取	c=1 d=1 t=33
+hòu tái 	后台	c=1 d=1 t=36
+hēi 	黑	c=0 d=0.1 t=14
+hēi dà shuài 	黑大帅	c=1 d=1 t=15
+hǎo hǎo hǎo 	好好好	c=1 d=1 t=30
+jié tú 	截图	c=0 d=0.1 t=30
+jiù shì 	就是	c=1 d=1 t=19
+jìng mò 	静默	c=0 d=0.1 t=30
+jìng mò jié tú 	静默截图	c=1 d=1 t=31
+méi bì yào 	没必要	c=1 d=1 t=21
+měng měng 	猛猛	c=1 d=1 t=3
+nǐ yòu zài 	你又在	c=1 d=1 t=2
+quán píng 	全屏	c=1 d=1 t=34
+qíng xù 	情绪	c=1 d=1 t=23
+rèn 	任	c=0 d=0.1 t=11
+rèn shī lè 	任施乐	c=2 d=1.99501 t=13
+shuō míng 	说明	c=1 d=1 t=1
+shì 	是	c=1 d=1 t=16
+shì zhǐ 	是指	c=1 d=1 t=32
+shī lè 	施乐	c=0 d=0.1 t=11
+tóng bù 	同步	c=1 d=1 t=40
+tú xiàng 	图像	c=1 d=1 t=35
+wán quán 	完全	c=1 d=1 t=20
+wū lì 	邬莉	c=4 d=3.97017 t=8
+xiǎo láng háo 	小狼毫	c=1 d=1 t=37
+yí yàng ma 	一样吗	c=1 d=1 t=25
+yòng hù 	用户	c=1 d=1 t=38
+zhè 	这	c=1 d=1.07531 t=23
+zhè bù gēn 	这不跟	c=1 d=1 t=24
