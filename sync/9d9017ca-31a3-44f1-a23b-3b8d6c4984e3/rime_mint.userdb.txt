@@ -2,44 +2,172 @@
 #@/db_name	rime_mint
 #@/db_type	userdb
 #@/rime_version	1.13.1
-#@/tick	40
+#@/tick	160
 #@/user_id	9d9017ca-31a3-44f1-a23b-3b8d6c4984e3
-bù gēn 	不跟	c=0 d=0.1 t=23
-cí kù 	词库	c=1 d=1 t=39
-de 	的	c=2 d=1.97045 t=28
-dà shuài 	大帅	c=1 d=1.09851 t=17
-dǎo zhī 	导汁	c=1 d=1 t=14
-féng mài 	冯劢	c=3 d=2.98506 t=11
-gàn 	干	c=1 d=1 t=4
-gěi nǐ 	给你	c=1 d=1 t=26
-gǎn jué 	感觉	c=1 d=1 t=29
-huí jiā 	回家	c=1 d=1 t=27
-huò qǔ 	获取	c=1 d=1 t=33
-hòu tái 	后台	c=1 d=1 t=36
-hēi 	黑	c=0 d=0.1 t=14
-hēi dà shuài 	黑大帅	c=1 d=1 t=15
-hǎo hǎo hǎo 	好好好	c=1 d=1 t=30
-jié tú 	截图	c=0 d=0.1 t=30
-jiù shì 	就是	c=1 d=1 t=19
-jìng mò 	静默	c=0 d=0.1 t=30
-jìng mò jié tú 	静默截图	c=1 d=1 t=31
-méi bì yào 	没必要	c=1 d=1 t=21
-měng měng 	猛猛	c=1 d=1 t=3
-nǐ yòu zài 	你又在	c=1 d=1 t=2
-quán píng 	全屏	c=1 d=1 t=34
-qíng xù 	情绪	c=1 d=1 t=23
-rèn 	任	c=0 d=0.1 t=11
-rèn shī lè 	任施乐	c=2 d=1.99501 t=13
-shuō míng 	说明	c=1 d=1 t=1
-shì 	是	c=1 d=1 t=16
-shì zhǐ 	是指	c=1 d=1 t=32
-shī lè 	施乐	c=0 d=0.1 t=11
-tóng bù 	同步	c=1 d=1 t=40
-tú xiàng 	图像	c=1 d=1 t=35
-wán quán 	完全	c=1 d=1 t=20
-wū lì 	邬莉	c=4 d=3.97017 t=8
-xiǎo láng háo 	小狼毫	c=1 d=1 t=37
-yí yàng ma 	一样吗	c=1 d=1 t=25
-yòng hù 	用户	c=1 d=1 t=38
-zhè 	这	c=1 d=1.07531 t=23
-zhè bù gēn 	这不跟	c=1 d=1 t=24
+bù 	不	c=1 d=1 t=142
+bù gēn 	不跟	c=0 d=0.0918512 t=160
+bú guò 	不过	c=1 d=1 t=53
+bú gàn le 	不干了	c=1 d=1 t=82
+bú huì shì 	不会是	c=1 d=1 t=60
+bú qù 	不去	c=1 d=1 t=141
+bú shì 	不是	c=1 d=1 t=145
+bā 	吧	c=1 d=1 t=75
+bǎ nǐ dāng 	把你当	c=1 d=1 t=138
+bǐ 	比	c=0 d=0.1 t=44
+bǐ shéi dōu kuài 	比谁都快	c=1 d=1 t=45
+cháo xiào 	嘲笑	c=1 d=1 t=47
+chī 	吃	c=1 d=1 t=156
+cí kù 	词库	c=1 d=0.995012 t=160
+cóng xiǎo dào dà 	从小到大	c=1 d=1 t=114
+cǎn le 	惨了	c=0 d=0.1 t=82
+de 	的	c=9 d=5.59313 t=160
+duì nǐ 	对你	c=0 d=0.199501 t=105
+dà 	大	c=1 d=1 t=116
+dà shuài 	大帅	c=1 d=0.979175 t=160
+dà xué shēng 	大学生	c=1 d=1 t=121
+dì fāng 	地方	c=0 d=0.1 t=91
+děi 	得	c=0 d=0.175957 t=152
+dōng xi 	东西	c=1 d=1 t=86
+dōu 	都	c=1 d=1 t=88
+dōu kuài 	都快	c=0 d=0.1 t=44
+dōu shì 	都是	c=2 d=1.62798 t=117
+dǎo zhe shù 	倒着数	c=1 d=1 t=151
+dǎo zhī 	导汁	c=2 d=1.31301 t=160
+féng mài 	冯劢	c=3 d=2.58214 t=160
+fēn 	分	c=1 d=1 t=72
+gàn 	干	c=1 d=0.83527 t=160
+gàn shá 	干啥	c=1 d=1 t=95
+gěi bù gěi 	给不给	c=1 d=1 t=155
+gěi nǐ 	给你	c=2 d=1.1274 t=160
+gěi wǒ 	给我	c=1 d=1 t=80
+gōng zuò 	工作	c=0 d=0.1 t=51
+gōng zuò zhè me zhòng yào 	工作这么重要	c=1 d=1 t=52
+gǎn jué 	感觉	c=3 d=2.00086 t=160
+gǎo 	搞	c=0 d=0.1 t=80
+gǎo zǒu le 	搞走了	c=1 d=1 t=81
+huán jìng 	环境	c=1 d=1 t=69
+huí dào jiā le 	回到家了	c=1 d=1 t=62
+huí jiā 	回家	c=2 d=1.43739 t=160
+huò qǔ 	获取	c=1 d=0.965605 t=160
+hái shuō 	还说	c=1 d=1 t=77
+hái shì 	还是	c=0 d=0.1 t=97
+hái shì děi 	还是得	c=1 d=1 t=98
+hái yǒu 	还有	c=1 d=1 t=136
+hòu tái 	后台	c=1 d=0.980199 t=160
+hēi 	黑	c=0 d=0.0878095 t=160
+hēi dà shuài 	黑大帅	c=1 d=0.882497 t=160
+hǎi niú 	海牛	c=1 d=1 t=90
+hǎo hǎo hǎo 	好好好	c=3 d=2.34786 t=160
+hǎo liǎn sè 	好脸色	c=1 d=1 t=107
+hǎo lù 	好鹿	c=1 d=1 t=137
+hǎo xiàng 	好像	c=1 d=1 t=135
+hǎo xiàng bú shì 	好像不是	c=1 d=1 t=132
+jié tú 	截图	c=1 d=0.603768 t=160
+jiù 	就	c=2 d=1.97045 t=110
+jiù shì 	就是	c=2 d=1.23864 t=160
+jiā yí yàng 	家一样	c=1 d=1 t=64
+jìng mò 	静默	c=0 d=0.0951229 t=160
+jìng mò jié tú 	静默截图	c=1 d=0.955997 t=160
+jǐ gè 	几个	c=0 d=0.1 t=114
+jǐ gé 	几格	c=1 d=1 t=149
+kàn bù dǒng 	看不懂	c=1 d=1 t=89
+kàn tā 	看她	c=0 d=0.1 t=152
+kāi wán xiào 	开玩笑	c=1 d=1 t=56
+le 	了	c=2 d=1.8537 t=140
+lái wǔ hàn ba 	来武汉吧	c=1 d=1 t=124
+máo bìng duō 	毛病多	c=1 d=1 t=96
+méi bì yào 	没必要	c=1 d=0.909373 t=160
+méi fā xiàn 	没发现	c=1 d=1 t=113
+méi kàn guò 	没看过	c=0 d=0.1 t=114
+méi kàn guò jǐ gè 	没看过几个	c=1 d=1 t=115
+mā 	妈	c=1 d=1 t=154
+měng měng 	猛猛	c=1 d=0.831104 t=160
+niú bī 	牛逼	c=1 d=1 t=61
+nà wǒ 	那我	c=1 d=1 t=43
+nà xiē rén 	那些人	c=1 d=1 t=103
+nà zǎ 	那咋	c=0 d=0.1 t=48
+nà zǎ le 	那咋了	c=1 d=1 t=49
+nǐ 	你	c=0 d=0.257344 t=152
+nǐ bié 	你别	c=1 d=1 t=150
+nǐ děi kàn tā 	你得看她	c=1 d=1 t=153
+nǐ guǎn tā 	你管他	c=1 d=1 t=94
+nǐ yuè hěn 	你越狠	c=1 d=1 t=102
+nǐ yuè ruò 	你越弱	c=1 d=1 t=108
+nǐ yòu zài 	你又在	c=1 d=0.826959 t=160
+nǐ zhè wèi 	你这位	c=1 d=1 t=59
+nǚ ér 	女儿	c=1 d=1 t=139
+pà bù 	怕不	c=0 d=0.1 t=117
+pà bù dōu shì 	怕不都是	c=1 d=1 t=118
+pǎo de 	跑的	c=1 d=1 t=44
+quán píng 	全屏	c=1 d=0.970446 t=160
+qíng xù 	情绪	c=1 d=0.918512 t=160
+qù 	去	c=1 d=1 t=147
+rèn 	任	c=0 d=0.0865022 t=160
+rèn shī lè 	任施乐	c=2 d=1.74307 t=160
+shuō 	说	c=1 d=1 t=57
+shuō míng 	说明	c=1 d=0.822835 t=160
+shàng hào 	上号	c=1 d=1 t=42
+shéi 	谁	c=0 d=0.1 t=44
+shì 	是	c=1 d=0.88692 t=160
+shì zhǐ 	是指	c=1 d=0.960789 t=160
+shī lè 	施乐	c=0 d=0.0865022 t=160
+tiān jiā 	添加	c=1 d=1 t=158
+tè bié shì 	特别是	c=1 d=1 t=122
+tóng bù 	同步	c=2 d=1.38827 t=160
+tú xiàng 	图像	c=1 d=0.97531 t=160
+tā jiù 	他就	c=0 d=0.1 t=82
+tā jiù cǎn le 	他就惨了	c=1 d=1 t=83
+tā men 	他们	c=2 d=1.89583 t=109
+wài dì 	外地	c=1 d=1 t=119
+wàn yī 	万一	c=0 d=0.1 t=77
+wàn yī zhè ge 	万一这个	c=1 d=1 t=78
+wán quán 	完全	c=1 d=0.904837 t=160
+wán yóu xì 	玩游戏	c=1 d=1 t=148
+wén jiàn 	文件	c=1 d=1 t=160
+wū lì 	邬莉	c=4 d=3.38316 t=160
+wǒ 	我	c=2 d=1.9802 t=54
+wǒ hái yào 	我还要	c=1 d=1 t=46
+wǒ tóng shì 	我同事	c=1 d=1 t=76
+wǒ yào 	我要	c=1 d=1 t=143
+wǒ yào huí 	我要回	c=1 d=1 t=146
+wǒ yě kàn dào le 	我也看到了	c=1 d=1 t=128
+wǒ zhī qián 	我之前	c=0 d=0.1 t=83
+wǒ zhī qián xiě 	我之前写	c=1 d=1 t=84
+wǒ zěn me 	我怎么	c=1 d=1 t=112
+xiàng mù 	项目	c=1 d=1 t=79
+xiě 	写	c=0 d=0.1 t=83
+xiǎo jiàn pán 	小键盘	c=1 d=1 t=157
+xiǎo láng háo 	小狼毫	c=1 d=0.985112 t=160
+xué shēng 	学生	c=1 d=1 t=120
+yuè 	越	c=0 d=0.1 t=110
+yuè huì 	越会	c=0 d=0.1 t=105
+yuè huì duì nǐ 	越会对你	c=1 d=1 t=106
+yuè hěn 	越狠	c=0 d=0.1 t=101
+yuè ruò 	越弱	c=0 d=0.1 t=107
+yuè ě xīn 	越恶心	c=1 d=1 t=111
+yuē huì 	约会	c=0 d=0.1 t=104
+yuē huì duì nǐ 	约会对你	c=1 d=1 t=105
+yì fān 	一番	c=1 d=1 t=48
+yí xià 	一下	c=0 d=0.1 t=98
+yí yàng ma 	一样吗	c=1 d=0.927743 t=160
+yòng hù 	用户	c=2 d=1.19062 t=160
+yòng hù shù jù 	用户数据	c=1 d=1 t=126
+yīn yáng 	阴阳	c=0 d=0.1 t=98
+yīn yáng yí xià 	阴阳一下	c=1 d=1 t=99
+yīng gāi 	应该	c=1 d=1 t=70
+yǒu diǎn yì si 	有点意思	c=1 d=1 t=130
+yǒu shí hòu 	有时候	c=1 d=1 t=97
+zhuō miàn 	桌面	c=1 d=1 t=68
+zhè 	这	c=1 d=0.987685 t=160
+zhè bù gēn 	这不跟	c=1 d=0.923116 t=160
+zhè ge 	这个	c=1 d=1.07788 t=127
+zhè me zhòng yào 	这么重要	c=0 d=0.1 t=51
+zhè zhǒng 	这种	c=0 d=0.1 t=91
+zhè zhǒng dì fāng 	这种地方	c=1 d=1 t=92
+zhèng shì bǎn 	正式版	c=1 d=1 t=133
+zhí chǎng 	职场	c=1 d=1 t=100
+zuì shì hé 	最适合	c=1 d=1 t=91
+zì dìng yì 	自定义	c=1 d=1 t=159
+zǒu le 	走了	c=0 d=0.1 t=80
+ě xīn 	恶心	c=0 d=0.1 t=110
+ǹ 	嗯	c=1 d=1 t=134

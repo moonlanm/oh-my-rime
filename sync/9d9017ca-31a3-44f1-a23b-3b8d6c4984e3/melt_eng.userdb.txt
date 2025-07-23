@@ -2,5 +2,6 @@
 #@/db_name	melt_eng
 #@/db_type	userdb
 #@/rime_version	1.13.1
-#@/tick	0
+#@/tick	1
 #@/user_id	9d9017ca-31a3-44f1-a23b-3b8d6c4984e3
+Wayland 	Wayland	c=1 d=1 t=1
